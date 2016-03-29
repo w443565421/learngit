@@ -6,3 +6,6 @@ def a:
 
 def b:
     pass
+
+def d:
+    pass
