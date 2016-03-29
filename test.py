@@ -7,5 +7,5 @@ def a:
 def b:
     pass
 
-def d:
+def c:
     pass
